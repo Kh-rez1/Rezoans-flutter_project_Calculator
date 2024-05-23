@@ -1,6 +1,6 @@
 # quizapps
 
-A new Flutter project.
+A new Flutter calculator.
 
 ## Getting Started
 
